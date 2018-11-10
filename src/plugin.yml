@@ -1,0 +1,5 @@
+name: DNumberInputAPI
+version: 1.0
+author: David Kraus
+api-version: 1.13
+main: at.dalex.api.numberinput.Main
